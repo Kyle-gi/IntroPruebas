@@ -24,7 +24,7 @@ mvn -v
 ```powershell
 mvn test
 mvn package
-mvn compile exec:java -Dexec.mainClass="org.sergiolozanoprofe.Main"
+mvn compile exec:java -Dexec.mainClass="org.test.Main"
 ```
 
 Notas importantes:
